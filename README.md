@@ -1,5 +1,5 @@
-![logo](https://github.com/lovu2003/lovu2003/blob/main/Make%20your%20README.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovu2003&label=Profile%20views&color=b4480e&style=flat" alt="lovu2003" /> </p>
+![logo](https://github.com/lovu2003/lovu2003/blob/main/Make%20your%20README.png)
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
   <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
