@@ -24,7 +24,7 @@
 <h3 align="left">My expertise encompasses:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,html,css,js,bootstrap,react,redux,nextjs,ts,nodejs,npm,express,mongodb,mysql,postman,eclipse,visualstudio,vite,vscode,github,git,linux,ubuntu,replit" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,php,r,html,css,js,bootstrap,react,npm,mysql,eclipse,visualstudio,vite,vscode,github,git,linux,ubuntu," />
   </a>
 </p>
 
